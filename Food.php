@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "function.php";
+include "Food.php";
 echo color("purple"," ===========================\n");
 echo color("yellow","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
