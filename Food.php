@@ -4,10 +4,10 @@ include "function.php";
 echo color("purple"," ===========================\n");
 echo color("yellow","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
-echo color("green","| github: antonbabe |\n");
-echo color("blue","| puyeng pala|\n");
-echo color("yellow","| kelen enak ka         |\n");
-echo "| tinggal comot     |\n";
+echo color("green","| github: Deni Irawan S T |\n");
+echo color("blue","| fanspage :ganteng dan manis|\n");
+echo color("yellow","| Creator : deniirawan2502.com          |\n");
+echo "| Kata sambutan : semoga vouchernya keluar dan deni irawan diterima kerja di tempat yang lebih baik      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
